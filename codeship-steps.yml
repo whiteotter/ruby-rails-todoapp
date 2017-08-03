@@ -13,4 +13,4 @@
 - name: migrate
   tag: master
   service: codeship_heroku_deployment
-  command: heroku run --app ruby-rails-todoapp -- bundle exec rake db:migrate
+  command: heroku run --app evening-headland-92920 -- bundle exec rake db:migrate
