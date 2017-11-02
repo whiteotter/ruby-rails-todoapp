@@ -2,6 +2,7 @@
 
 [ ![Codeship Status for codeship-library/ruby-rails-todoapp](https://app.codeship.com/projects/97346e20-f1fa-0134-23f8-2e8f61e6642c/status?branch=master)](https://app.codeship.com/projects/209553)
 
+
 ## Overview
 The following repository is a `todo` API example developed with Ruby on Rails framework.
 
